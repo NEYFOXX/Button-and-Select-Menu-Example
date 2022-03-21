@@ -1,0 +1,5 @@
+{
+    "token": "Your token goes here",
+    "prefix": "+", 
+    "owners": ["your id", "other id (optional)"]
+}
